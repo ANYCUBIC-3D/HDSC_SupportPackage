@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<flash_device>
+  <exe>${CMSIS_PACK_PATH_HDSC#HC32F460#1.0.7}$\FlashIAR\FlashHC32F460_otp.out</exe>
+  <page>4</page>
+  <block>1 0x3FC</block>
+  <flash_base>0x03000C00</flash_base>
+  <macro>${CMSIS_PACK_PATH_HDSC#HC32F460#1.0.7}$\FlashIAR\FlashHC32F460_otp.mac</macro>
+  <aggregate>0</aggregate>
+</flash_device>

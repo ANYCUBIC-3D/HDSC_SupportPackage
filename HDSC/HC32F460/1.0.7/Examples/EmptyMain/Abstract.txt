@@ -1,0 +1,2 @@
+Creates an empty project fully initialized for the selected device. 
+The project will contain an empty 'main.c' source-file.
